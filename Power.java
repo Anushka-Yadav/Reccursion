@@ -1,3 +1,6 @@
+// stack height is n
+// or we can say the TimeComplexity is O(n)
+
 public class Power {
     public static int power(int x,int n) {
        if(x==0){
