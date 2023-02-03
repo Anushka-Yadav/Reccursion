@@ -1,3 +1,6 @@
+//optimises i.e. Time Complexity log n 
+// or O(log n)
+
 public class OptPower {
     
         public static int power(int x,int n) {
